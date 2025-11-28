@@ -75,19 +75,6 @@ Real-time object counting using YOLOv8, OpenCV, Kalman Filter
 ### 🔹 **AprilTags Tracking System**
 3D marker creation with Blender, Python UI, real-world testing
 
-### 🔹 **ContentSpark**
-AI-powered content idea & script generator for social media creators
-
-### 🔹 **Mindlatch**
-A 2D action-story game with comic-style cutscenes
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sfkoc&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfkoc&layout=compact&theme=radical" height="170"/>
-</p>
 
 ---
 
@@ -97,7 +84,7 @@ A 2D action-story game with comic-style cutscenes
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="45"/>
  </a>
 
- <a href="mailto:YOUR_EMAIL_HERE">
+ <a href="mailto:sfkoc58@gmail.com">
    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="45"/>
  </a>
 </p>
