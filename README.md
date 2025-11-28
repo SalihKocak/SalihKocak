@@ -7,26 +7,26 @@
 <p align="center">
   <b>AI Developer • Full-Stack Developer • Computer Vision Enthusiast</b>
   <br>
-  Yapay zeka, mobil uygulama geliştirme ve bilgisayarlı görü alanlarında projeler üreten bir geliştiriciyim.
-  Gerçek zamanlı görüntü işleme, mobil uygulamalar, web projeleri ve backend sistemlerde aktif olarak çalışıyorum.
+  I build projects in artificial intelligence, mobile development, and computer vision. 
+  My work focuses on real-time image processing, mobile apps, web systems, and backend technologies.
 </p>
 
 ---
 
-## 🚀 Hakkımda
+## 🚀 About Me
 
-- 🎓 **YBS Mezunu** + Brisa’da **9 aylık Bilgi Sistemleri staj deneyimi**
-- 🤖 AI projeleri: YOLOv8, AprilTags, SecureLens (Phishing & Malware Analyzer), MoodDiary, ContentSpark
-- 📱 Mobil projeler: Flutter ile fitness, duygu takibi ve sosyal uygulamalar
-- 👁️ Computer Vision: Nesne tespiti, takip, centroid tracker, Kalman filter, gerçek zamanlı görüntü işleme
-- 🖥️ Full-stack: React, Flask, Node.js, MongoDB, Express
-- 🎮 Oyun geliştirme: 2D hikaye tabanlı oyun (Mindlatch), strateji temelli Mars kolonisi oyunu
+- 🎓 Management Information Systems graduate + 9-month IS internship at **Brisa**
+- 🤖 AI Projects: YOLOv8, AprilTags, SecureLens (Phishing & Malware Analyzer), MoodDiary, ContentSpark
+- 📱 Mobile Development: Flutter-based fitness, mood tracking, and social apps
+- 👁️ Computer Vision: Object detection, tracking, centroid tracking, Kalman filter, real-time processing
+- 🖥️ Full-Stack: React, Flask, Node.js, Express, MongoDB
+- 🎮 Game development: 2D story-driven game **Mindlatch**, Mars colony strategy game concept
 
 ---
 
-## 🧰 Kullandığım Teknolojiler
+## 🧰 Tech Stack
 
-### 🔹 **Diller & Frameworkler**
+### 🔹 Languages & Frameworks
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
@@ -37,7 +37,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
 </p>
 
-### 🔹 **AI / ML / Computer Vision**
+### 🔹 AI / Machine Learning / CV
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/>
@@ -45,14 +45,14 @@
   <img src="https://miro.medium.com/v2/resize:fit:828/1*nwB6bCqQZ9AUbWn9Eh0Lgw.png" width="70"/>
 </p>
 
-### 🔹 **Database**
+### 🔹 Databases
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45"/>
 </p>
 
-### 🔹 **Araçlar & Platformlar**
+### 🔹 Tools & Platforms
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
@@ -63,27 +63,27 @@
 
 ---
 
-## 🏗️ Öne Çıkan Projeler
+## 🏗️ Featured Projects
 
 ### 🔹 **SecureLens – AI Security Scanner**
-AI destekli URL, email & dosya analiz sistemi  
+AI-powered phishing, malicious URL, and file analysis tool  
 `Flask • MongoDB • scikit-learn • NLP`
 
-### 🔹 **Lastik Sayım Computer Vision Projesi**
-Gerçek zamanlı kamera üzerinden nesne sayımı – YOLOv8, OpenCV, Kalman Filter
+### 🔹 **Tire Counting CV System**
+Real-time object counting using YOLOv8, OpenCV, Kalman Filter
 
-### 🔹 **AprilTags Tracking Sistemi**
-Blender ile 3D marker üretimi, Python arayüzü, sahada testler
+### 🔹 **AprilTags Tracking System**
+3D marker creation with Blender, Python UI, real-world testing
 
 ### 🔹 **ContentSpark**
-Sosyal medya içerik üreticilerine AI destekli fikir / senaryo üretme platformu
+AI-powered content idea & script generator for social media creators
 
 ### 🔹 **Mindlatch**
-2D aksiyon-hikaye tabanlı oyun – çizgi roman tarzı ara sahneler
+A 2D action-story game with comic-style cutscenes
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sfkoc&show_icons=true&theme=radical" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfkoc&layout=compact&theme=radical" height="170"/>
@@ -91,13 +91,17 @@ Sosyal medya içerik üreticilerine AI destekli fikir / senaryo üretme platform
 
 ---
 
-## 📫 Bana ulaş
+## 📫 Contact Me
 <p align="left">
  <a href="https://www.linkedin.com/in/salih-furkan-koçak">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="45"/>
+ </a>
+
+ <a href="mailto:YOUR_EMAIL_HERE">
+   <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="45"/>
  </a>
 </p>
 
 ---
 
-⭐ **Profilimi ziyaret ettiğin için teşekkür ederim!**
+⭐ Thanks for visiting my profile!
