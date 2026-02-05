@@ -1,94 +1,110 @@
-<h1 align="center">Hey, I'm Salih Furkan Koçak 👋</h1>
+<h1 align="center">Salih Furkan Koçak</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fx1kSdjvWcS0/giphy.gif" width="200"/>
+AI Engineer • Full-Stack Developer • Computer Vision Engineer
 </p>
 
 <p align="center">
-  <b>AI Developer • Full-Stack Developer • Computer Vision Enthusiast</b>
-  <br>
-  I build projects in artificial intelligence, mobile development, and computer vision. 
-  My work focuses on real-time image processing, mobile apps, web systems, and backend technologies.
+Building intelligent systems, scalable backend architectures, and real-time computer vision applications.
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Management Information Systems graduate + 9-month IS internship at **Brisa**
-- 🤖 AI Projects: YOLOv8, AprilTags, SecureLens (Phishing & Malware Analyzer), MoodDiary, ContentSpark
-- 📱 Mobile Development: Flutter-based fitness, mood tracking, and social apps
-- 👁️ Computer Vision: Object detection, tracking, centroid tracking, Kalman filter, real-time processing
-- 🖥️ Full-Stack: React, Flask, Node.js, Express, MongoDB
-- 🎮 Game development: 2D story-driven game **Mindlatch**, Mars colony strategy game concept
+Management Information Systems graduate with hands-on experience developing production-oriented software and AI-driven systems.
 
----
+During my long-term internship in the Information Systems department at **Brisa**, I worked on real-world engineering problems including real-time object detection, enterprise software workflows, and system design.
 
-## 🧰 Tech Stack
-
-### 🔹 Languages & Frameworks
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-</p>
-
-### 🔹 AI / Machine Learning / CV
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/OpenCV_Logo_with_text.png" width="60"/>
-  <img src="https://miro.medium.com/v2/resize:fit:828/1*nwB6bCqQZ9AUbWn9Eh0Lgw.png" width="70"/>
-</p>
-
-### 🔹 Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45"/>
-</p>
-
-### 🔹 Tools & Platforms
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
-  <img src="https://avatars.githubusercontent.com/u/105126301?s=280&v=4" width="45" title="Cursor AI"/>
-</p>
+I focus on building software that is not only functional — but reliable, scalable, and designed with engineering discipline.
 
 ---
 
-## 🏗️ Featured Projects
+## Core Expertise
 
-### 🔹 **SecureLens – AI Security Scanner**
-AI-powered phishing, malicious URL, and file analysis tool  
-`Flask • MongoDB • scikit-learn • NLP`
+**Artificial Intelligence & Computer Vision**
 
-### 🔹 **Tire Counting CV System**
-Real-time object counting using YOLOv8, OpenCV, Kalman Filter
+* Real-time object detection (YOLO)
+* Image processing pipelines
+* Tracking systems (Centroid, Kalman Filter)
+* Fraud detection & security analysis
 
-### 🔹 **AprilTags Tracking System**
-3D marker creation with Blender, Python UI, real-world testing
+**Backend & System Design**
 
+* REST API architecture
+* Scalable backend services
+* Authentication systems
+* Database design
+
+**Full-Stack Development**
+
+* React / React Native
+* Node.js / NestJS
+* Flask / FastAPI
+* MongoDB / PostgreSQL
 
 ---
 
-## 📫 Contact Me
-<p align="left">
- <a href="https://www.linkedin.com/in/salih-furkan-koçak">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="45"/>
- </a>
+## Selected Projects
 
- <a href="mailto:sfkoc58@gmail.com">
-   <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="45"/>
- </a>
+### SecureLens — AI Fraud Detection Platform
+
+Machine learning-based security analysis tool that detects malicious URLs, phishing attempts, and suspicious files.
+
+**Stack:** Flask • MongoDB • scikit-learn • NLP
+
+---
+
+### Tire Counting System (Computer Vision)
+
+Designed a real-time detection pipeline to count moving objects using YOLO and OpenCV, optimized for accuracy under live camera conditions.
+
+**Stack:** Python • YOLOv8 • OpenCV
+
+---
+
+### AprilTag Tracking System
+
+Developed a marker-based tracking solution including 3D asset creation, Python interface design, and real-world deployment tests.
+
+**Stack:** Python • AprilTags • Blender
+
+---
+
+## Tech Stack
+
+**Languages:**
+Python, TypeScript, JavaScript
+
+**Frameworks:**
+React, NestJS, Flask, FastAPI, Flutter
+
+**Databases:**
+MongoDB, PostgreSQL, Oracle
+
+**Tools:**
+Docker, Git, Linux
+
+---
+
+## Career Focus
+
+Currently seeking opportunities where I can contribute to:
+
+* Artificial Intelligence systems
+* Computer Vision projects
+* Backend engineering
+* Scalable platform development
+
+---
+
+## Contact
+
+LinkedIn: [https://www.linkedin.com/in/salih-furkan-koçak](https://www.linkedin.com/in/salih-furkan-koçak)
+Email: [sfkoc58@gmail.com](mailto:sfkoc58@gmail.com)
+
+---
+
+<p align="center">
+Open to collaboration and impactful engineering challenges.
 </p>
-
----
-
-⭐ Thanks for visiting my profile!
